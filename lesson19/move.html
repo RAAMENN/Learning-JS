@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>move</title>
+	<link rel="stylesheet" type="text/css" href="move.css">
+	<script type="text/javascript" src='multipleMove3.js'></script>
+	<script type="text/javascript">
+		window.onload=function(){
+			var oDiv1=document.getElementById('div1');
+
+			oDiv1.onmouseover=function(){
+				move(oDiv1,'width',400,function(){
+					move(oDiv1,'height',400,function(){
+						move(oDiv1,'opacity',30);
+					});
+				});
+			};
+
+			oDiv1.onmouseout=function(){
+				move(oDiv1,'opacity',100,function(){
+					move(oDiv1,'height',200,function(){
+						move(oDiv1,'width',200);
+					});
+				});
+			};
+		};
+	</script>
+</head>
+<body>
+	<div id="div1"></div>
+</body>
+</html>

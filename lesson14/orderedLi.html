@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>orderedLi</title>
+</head>
+<style type="text/css">
+	#ul1 {background: yellow;}
+	#ul2 {background: green;}
+</style>
+<script type="text/javascript">
+	window.onload=function () {
+		var oUl1=document.getElementById('ul1');
+		var oBtn=document.getElementById('btn1');
+		var array=[];
+		oBtn.onclick=function(){
+			var aLi=oUl1.getElementsByTagName('li');
+			for(var i=0;i<aLi.length;i++){
+				array[i]=aLi[i];
+			}
+
+			array.sort(function(li1,li2){
+				var n1=parseInt(li1.innerHTML);
+				var n2=parseInt(li2.innerHTML);
+				return n1-n2;
+			});
+
+			for(var j=0;j<aLi.length;j++){
+				oUl1.appendChild(array[j]);
+			}
+		};	// body...
+	};
+</script>
+<body>
+<ul id="ul1">
+	<li>21</li>
+	<li>213</li>
+	<li>32</li>
+	<li>4</li>
+</ul>
+<input type="button" name="btn1" value="order" id="btn1">
+</body>
+</html>

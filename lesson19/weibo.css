@@ -1,0 +1,5 @@
+* {margin:0;padding: 0;}
+#ul1 {width:500px;height: 500px;overflow: hidden;border: 1px solid black;margin:10px auto;}
+#ul1 li{border-bottom: 1px #999 dashed;padding: 4px;list-style: none;overflow: hidden;opacity: 0;}
+#txt1 {position: absolute;margin:50px 50px;}
+#btn1 {margin:150px 320px;}

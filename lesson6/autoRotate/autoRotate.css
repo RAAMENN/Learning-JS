@@ -1,0 +1,4 @@
+* {margin:0;padding: 0}
+#div1 ul li {float: left;width: 128px;height: 128px;list-style: none;}
+#div1 {width:1024px;height: 128px;margin:100px auto;position: relative;overflow: hidden;}
+#div1 ul {position: absolute;left: 0;top: 0;}

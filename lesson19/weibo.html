@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>weibo</title>
+	<link rel="stylesheet" type="text/css" href="weibo.css">
+	<script type="text/javascript" src='完美运动框架.js'></script>
+	<script type="text/javascript">
+		window.onload=function(){
+			var oTxt1=document.getElementById('txt1');
+			var	oBtn1=document.getElementById('btn1');
+			var oUl=document.getElementById('ul1');
+
+			oBtn1.onclick=function(){
+				var oLi=document.createElement('li');
+				oLi.innerHTML=oTxt1.value;
+				oTxt1.value='';
+
+				if (oUl.children.length>0) 
+				{
+					oUl.insertBefore(oLi,oUl.children[0]);
+				} 
+				else 
+				{
+					oUl.appendChild(oLi);
+				}
+
+				var iHeight=oLi.offsetHeight;
+				oLi.style.height='0';
+				move(oLi,{height:iHeight},function(){
+					move(oLi,{opacity:100});});
+			};
+
+			
+		};
+	</script>
+</head>
+<body>
+<textarea id="txt1" rows="4" cols="40"></textarea>
+<input type="button" name="btn" id="btn1" value="发布">
+<ul id="ul1">
+</ul>
+</body>
+</html>

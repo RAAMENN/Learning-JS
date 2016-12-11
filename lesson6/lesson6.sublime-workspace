@@ -1,0 +1,855 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dis",
+				"disY"
+			],
+			[
+				"onmouse",
+				"onmouseup"
+			],
+			[
+				"off",
+				"offsetTop"
+			],
+			[
+				"ev",
+				"ev"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"sc",
+				"scrollLeft\t.scrollLeft()"
+			],
+			[
+				"scro",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"T",
+				"timer"
+			],
+			[
+				"set",
+				"setoffWidth"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"scr",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"DI",
+				"DIV\tTag"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"offs",
+				"offsetLeft"
+			],
+			[
+				"move",
+				"moveback"
+			],
+			[
+				"o",
+				"oDiv"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"oul",
+				"oUl2"
+			],
+			[
+				"ch",
+				"children\t.children()"
+			],
+			[
+				"par",
+				"parentNode"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"oT",
+				"oTd"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"ot",
+				"otab"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"inser",
+				"insertBefore\t.insertBefore()"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"pos",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tim",
+				"timer"
+			],
+			[
+				"oD",
+				"oDiv2"
+			],
+			[
+				"oDiv",
+				"oDiv2"
+			],
+			[
+				"Od",
+				"oDiv1"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"date",
+				"Date"
+			],
+			[
+				"cu",
+				"cur\tcursor: ${pointer};"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"cl",
+				"cl\tclear: ${1:both};"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"onm",
+				"onmouseout\tAttr"
+			],
+			[
+				"sho",
+				"showhide"
+			],
+			[
+				"D",
+				"div"
+			],
+			[
+				"bt",
+				"btn1"
+			],
+			[
+				"occ",
+				"onclick\tAttr"
+			],
+			[
+				"cd",
+				"changeDiv"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"cha",
+				"changeWidth"
+			],
+			[
+				"change",
+				"changeColor"
+			],
+			[
+				"dv",
+				"div1"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"sh",
+				"show\t.show()"
+			],
+			[
+				"show",
+				"showhide"
+			],
+			[
+				"sk",
+				"skin2"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"onmou",
+				"onmouseout\tAttr"
+			],
+			[
+				"onmo",
+				"onmouseout\tAttr"
+			],
+			[
+				"onmoo",
+				"onmouseover\tAttr"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"omo",
+				"onmouseout\tAttr"
+			],
+			[
+				"om",
+				"onmouseenter\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"fl",
+				"fl\tfloat: ${1:left};"
+			],
+			[
+				"ov",
+				"ov\toverflow: ${1:hidden};"
+			],
+			[
+				"f",
+				"fl\tfloat: ${1:left};"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"HE",
+				"HEADER\tTag"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/raame_000/Downloads/lesson22/事件绑定.html",
+			"settings":
+			{
+				"buffer_size": 232,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/raame_000/Downloads/lesson22/事件绑定.js",
+			"settings":
+			{
+				"buffer_size": 41,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/raame_000/Downloads/lesson22/事件绑定.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 469.0,
+		"last_filter": "ssc",
+		"selected_items":
+		[
+			[
+				"ssc",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"SSH",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"ssja",
+				"Set Syntax: Java"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"SSh",
+				"Set Syntax: HTML"
+			],
+			[
+				"SSjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"SSmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"SSCS",
+				"Set Syntax: CSS"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"snip",
+				"Snippet: Function"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"PCI",
+				"Package Control: Install Package"
+			],
+			[
+				"PC",
+				"Package Control: Remove Package"
+			],
+			[
+				"PCL",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/raame_000/Downloads/lesson21/drag.html",
+		"/C/Users/raame_000/Downloads/lesson21/input.html",
+		"/C/Users/raame_000/Downloads/lesson20/keycode.css",
+		"/C/Users/raame_000/Downloads/lesson20/keycode.js",
+		"/C/Users/raame_000/Downloads/lesson20/keycode.html",
+		"/C/Users/raame_000/Downloads/lesson20/click.css",
+		"/C/Users/raame_000/Downloads/lesson20/click.html",
+		"/C/Users/raame_000/Desktop/weather.html",
+		"/C/Users/raame_000/Downloads/lesson20/click.js",
+		"/C/Users/raame_000/Downloads/lesson19/weibo.css",
+		"/C/Users/raame_000/Downloads/lesson19/完美运动框架.js",
+		"/C/Users/raame_000/Downloads/lesson19/weibo.html",
+		"/C/Users/raame_000/Downloads/lesson19/test.html",
+		"/C/Users/raame_000/Downloads/lesson19/完美运动框架3.js",
+		"/C/Users/raame_000/Downloads/lesson19/完美运动框架2.js",
+		"/C/Users/raame_000/Downloads/土豆右下角菜单悬浮效果/move.js",
+		"/C/Users/raame_000/Downloads/lesson19/multipleMove3.js",
+		"/C/Users/raame_000/Downloads/lesson19/move.css",
+		"/C/Users/raame_000/Downloads/lesson19/move.html",
+		"/C/Users/raame_000/Downloads/仿FLASH的图片轮换播放器/zns_style.css",
+		"/C/Users/raame_000/Downloads/lesson18/轮播图.html",
+		"/C/Users/raame_000/Downloads/lesson18/轮播图.css",
+		"/C/Users/raame_000/Downloads/lesson18/轮播图.js",
+		"/C/Users/raame_000/Downloads/仿FLASH的图片轮换播放器/move.js",
+		"/C/Users/raame_000/Downloads/lesson18/multipleMove3.js",
+		"/C/Users/raame_000/Downloads/仿FLASH的图片轮换播放器/zns_demo.html",
+		"/C/Users/raame_000/Downloads/lesson17/multipleMove3.html",
+		"/C/Users/raame_000/Downloads/lesson17/multipleMove3.css",
+		"/C/Users/raame_000/Downloads/lesson17/multipleMove3.js",
+		"/C/Users/raame_000/Downloads/lesson17/multipleMove2.js",
+		"/C/Users/raame_000/Downloads/lesson17/multipleMove2.css",
+		"/C/Users/raame_000/Downloads/lesson17/multipleMove2.html",
+		"/C/Users/raame_000/Downloads/lesson17/multipleMove.html",
+		"/C/Users/raame_000/Downloads/lesson17/multipleMove.js",
+		"/C/Users/raame_000/Downloads/lesson17/multipleMove.css",
+		"/C/Users/raame_000/Downloads/lesson15/sideAds.js",
+		"/C/Users/raame_000/Downloads/lesson15/sideAds.html",
+		"/C/Users/raame_000/Downloads/lesson15/sideAds.css",
+		"/C/Users/raame_000/Downloads/lesson15/sidebar.js",
+		"/C/Users/raame_000/Downloads/lesson15/sidebar.html",
+		"/C/Users/raame_000/Downloads/lesson15/缓冲.css",
+		"/C/Users/raame_000/Downloads/lesson15/缓冲.js",
+		"/C/Users/raame_000/Downloads/lesson15/缓冲.html",
+		"/C/Users/raame_000/Downloads/lesson15/opacity.html",
+		"/C/Users/raame_000/Downloads/lesson15/opacity.css",
+		"/C/Users/raame_000/Downloads/lesson15/opacity.js",
+		"/C/Users/raame_000/Downloads/lesson15/sidebar.css",
+		"/C/Users/raame_000/Downloads/lesson15/move.css",
+		"/C/Users/raame_000/Downloads/lesson15/move.js",
+		"/C/Users/raame_000/Downloads/lesson15/move.html",
+		"/C/Users/raame_000/Downloads/lesson14/orderedTable.html",
+		"/C/Users/raame_000/Downloads/lesson14/orderedTable.js",
+		"/C/Users/raame_000/Downloads/lesson14/orderedLi.html",
+		"/C/Users/raame_000/Downloads/lesson13/table.html",
+		"/C/Users/raame_000/Downloads/lesson6/DOM/deleteElement.html",
+		"/C/Users/raame_000/Downloads/lesson6/DOM/deleteElement.js",
+		"/C/Users/raame_000/Downloads/lesson6/DOM/createElements.js",
+		"/C/Users/raame_000/Downloads/lesson6/DOM/createElements.html",
+		"/C/Users/raame_000/Downloads/lesson13/table.js",
+		"/C/Users/raame_000/Downloads/lesson6/DOM/createElements.css",
+		"/C/Users/raame_000/Downloads/lesson6/autoRotate/autoRotate.html",
+		"/C/Users/raame_000/Downloads/lesson6/autoRotate/autoRotate.css",
+		"/C/Users/raame_000/Downloads/lesson6/parseint.js",
+		"/C/Users/raame_000/Downloads/lesson6/autoRotate/autoRotate.js",
+		"/C/Users/raame_000/Downloads/lesson6/eclock/eclock.html",
+		"/C/Users/raame_000/Downloads/lesson6/timeLapseDiv/timeLapseDiv.js",
+		"/C/Users/raame_000/Downloads/lesson6/timeLapseDiv/timeLapseDiv.html",
+		"/C/Users/raame_000/Downloads/lesson6/timeLapseDiv/timeLapseDiv.css",
+		"/C/Users/raame_000/Downloads/lesson6/eclock/eclock.js",
+		"/C/Users/raame_000/Downloads/lesson6/eclock/eclock.css",
+		"/C/Users/raame_000/Downloads/lesson6/eclock.html",
+		"/C/Users/raame_000/Downloads/lesson6/eclock.js",
+		"/C/Users/raame_000/Downloads/lesson6/test.js",
+		"/C/Users/raame_000/Downloads/lesson6/test.html",
+		"/C/Users/raame_000/Downloads/lesson6/test",
+		"/C/Users/raame_000/Downloads/lesson6/parseint.css",
+		"/C/Users/raame_000/Downloads/lesson6/parseint.html",
+		"/C/Users/raame_000/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/raame_000/Downloads/JS简易年历/zns_demo.html",
+		"/C/Users/raame_000/Downloads/JS简易年历/zns_style.css",
+		"/C/Program Files/Sublime Text 3/calendar.html",
+		"/C/Program Files/Sublime Text 3/test1.html",
+		"/C/Program Files/Sublime Text 3/行间事件.html",
+		"/C/Program Files/Sublime Text 3/changeDiv.html",
+		"/C/Program Files/Sublime Text 3/function.html",
+		"/C/Program Files/Sublime Text 3/showhide.html",
+		"/C/Program Files/Sublime Text 3/getElementsByTagName.html",
+		"/C/Program Files/Sublime Text 3/changeColor.html",
+		"/C/Program Files/Sublime Text 3/toRed.html",
+		"/C/Program Files/Sublime Text 3/css2.css",
+		"/C/Program Files/Sublime Text 3/css1.css",
+		"/C/Program Files/Sublime Text 3/changeface.html",
+		"/C/Program Files/Sublime Text 3/testing.html",
+		"/C/Program Files/Sublime Text 3/MyCss.css",
+		"/C/Program Files/Sublime Text 3/ModuleOne.html",
+		"/C/Program Files/Sublime Text 3/testing.js",
+		"/C/Users/raame_000/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/raame_000/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/C/Users/raame_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/raame_000/Downloads/第一章 编程练习(参考代码)/javascript.js",
+		"/C/Users/raame_000/Downloads/NemesisBot/Config/config.json",
+		"/C/Users/raame_000/Downloads/NemesisBot/Config/auth.json",
+		"/C/Users/raame_000/Downloads/NemesisBot - worcester/Config/auth.json",
+		"/C/Users/raame_000/Downloads/NemesisBot - worcester/Config/config.json",
+		"/C/Users/raame_000/Downloads/NemesisBot - Copy/Config/config.json",
+		"/C/Users/raame_000/Downloads/NemesisBot - Version 2.0.2 [ FIX 2 ]/NemesisBot/Config/config.json"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"block",
+			"];\n",
+			"setoff",
+			");\n",
+			"10",
+			"NewYork",
+			"limited",
+			"limted"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/raame_000/Downloads/lesson22/事件绑定.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/raame_000/Downloads/lesson22/事件绑定.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/raame_000/Downloads/lesson22/事件绑定.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lesson6.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
